@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Volkan, a **Frontend Developer** passionate ab
 ### 🔭 What I’m Currently Working On
 - Deepening my knowledge of **Next.js** and optimizing applications with its advanced features.
 - Optimizing performance in large-scale web applications.
-- Improving backend skills using **MongoDB** and serverless functions.
+- Improving backend skills using **Supabase** and serverless functions.
 
 ---
 
