@@ -32,9 +32,6 @@ Building fast, modern and user-friendly web applications with a focus on perform
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,shadcn,nodejs,supabase,firebase,git,github,vscode,figma,npm&perline=6" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,shadcn,nodejs,supabase,firebase,git,github,vscode,figma,npm&perline=6" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white" />
