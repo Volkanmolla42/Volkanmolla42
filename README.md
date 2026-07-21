@@ -30,7 +30,7 @@ Building fast, modern and user-friendly web applications with a focus on perform
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,supabase,firebase,convex,shadcn,git,github,vscode,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,shadcn,nodejs,supabase,firebase,git,github,vscode,figma,npm&perline=6" />
 </p>
 
 ---
