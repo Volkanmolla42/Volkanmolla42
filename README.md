@@ -1,42 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Volkan 👋
 
-Welcome to my GitHub profile! I'm Volkan, a **Frontend Developer** passionate about creating user-friendly and visually appealing web interfaces. Here's a bit more about me:
+**Full Stack Developer** passionate about building modern, responsive, and user-friendly web applications.
+
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,firebase,nodejs,git,github,vscode" />
+</p>
+
+## 🌱 Currently Learning
+
+* Advanced features of **Next.js**
+* Performance optimization for large-scale applications
+* Backend development with **Supabase** and **Serverless Functions**
+
+## ⭐ Featured Projects
+
+### 🖼️ Portfolio Website
+
+A modern portfolio website built with **Next.js** and **Tailwind CSS** to showcase my projects and experience.
+
+### 💬 Real-Time Chat Application
+
+A real-time messaging application built with **HTML**, **CSS**, **JavaScript**, **WebSocket**, and **Firebase**.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Volkanmolla42&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volkanmolla42&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Volkanmolla42&theme=github-dark&hide_border=true" />
+</p>
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/volkan-molla-b851a3308/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mollavolkan11@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 🌟 About Me
-- 🎓 **Education**: Studied Web Design and Computer Programming in high school and university.
-- 💻 **Experience**: Proficient in **HTML**, **CSS**, **JavaScript**, **React**, **Next.js**, and **Tailwind CSS**.
-- 🎨 **Interests**: Visual design, user experience, and exploring backend technologies.
-- 🌍 **Languages**: Fluent in Turkish (native) and intermediate in English.
-
----
-
-### 🔭 What I’m Currently Working On
-- Deepening my knowledge of **Next.js** and optimizing applications with its advanced features.
-- Optimizing performance in large-scale web applications.
-- Improving backend skills using **Supabase** and serverless functions.
-
----
-
-### 🌱 What I’m Currently Learning
-
-- Optimizing performance in large-scale web applications.
-- Improving backend skills using **Supabase** and serverless functions.
-
----
-
-### 🌟 Featured Projects
-#### 🖼️ **Portfolio Website**  
-A responsive and visually appealing portfolio to showcase my skills, projects, and experience. Built with **Next.js** and **Tailwind CSS**.
-
-#### 💬 **Real-Time Chat Application**  
-A messaging platform enabling real-time communication using **Vanilla JS, CSS & HTML**, **WebSocket**, and **Firebase**.
-
----
-
-### 📫 How to Reach Me
-- **LinkedIn**: [volkan-molla](https://www.linkedin.com/in/volkan-molla-b851a3308/)
-- **Email**: mollavolkan11@gmail.com
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Volkanmolla42&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
