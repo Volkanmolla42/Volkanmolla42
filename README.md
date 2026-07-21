@@ -2,65 +2,62 @@
 
 ### Full Stack Developer from Türkiye 🇹🇷
 
-Building modern, performant, and user-friendly web applications.
+Building fast, modern and user-friendly web applications with a focus on performance and clean UI.
 
 <p align="center">
   <a href="https://volkanmolladotcom.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live-0A66C2?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/volkan-molla-b851a3308/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mollavolkan11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
+
+* 💻 Full Stack Developer
+* ⚛️ Building applications with **React**, **Next.js**, and **TypeScript**
+* 🎨 Passionate about creating clean, responsive, and intuitive user interfaces
+* 🌱 Currently exploring **Supabase**, **Serverless**, and performance optimization
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,shadcn,nodejs,supabase,firebase,git,github,vscode,figma,vercel&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,supabase,firebase,git,github,vscode,figma,npm&perline=6" />
 </p>
-
-> **Convex**
->
-> Currently using Convex for real-time backend development.
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Volkanmolla42&theme=tokyo-night&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white" />
 </p>
+
+## 🌟 Featured Project
+
+### 🌐 Personal Portfolio
+
+My personal portfolio showcasing projects, skills, and experience. Designed with a strong focus on UI/UX, smooth animations, and performance.
+
+**🔗 Live Demo:** https://volkanmolladotcom.vercel.app
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Volkanmolla42&theme=tokyonight&no-frame=true&column=4"/>
+  <img src="https://streak-stats.demolab.com?user=Volkanmolla42&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Volkanmolla42/Volkanmolla42/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+## 📫 Connect With Me
 
----
-
-## 🌐 Portfolio
-
-**https://volkanmolladotcom.vercel.app**
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/volkan-molla-b851a3308/
-- Email: mollavolkan11@gmail.com
+* 🌐 Portfolio: https://volkanmolladotcom.vercel.app
+* 💼 LinkedIn: https://www.linkedin.com/in/volkan-molla-b851a3308/
+* 📧 Email: [mollavolkan11@gmail.com](mailto:mollavolkan11@gmail.com)
