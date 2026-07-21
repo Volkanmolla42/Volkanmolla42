@@ -36,7 +36,6 @@ Building fast, modern and user-friendly web applications with a focus on perform
 <p align="center">
   <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white" />
 </p>
----
 
 ## 🌟 Featured Project
 
