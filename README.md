@@ -1,53 +1,73 @@
 # Hi there, I'm Volkan 👋
 
-**Full Stack Developer** passionate about building modern, responsive, and user-friendly web applications.
+### Full Stack Developer from Türkiye 🇹🇷
 
-## 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,supabase,firebase,nodejs,git,github,vscode" />
-</p>
-
-## 🌱 Currently Learning
-
-* Advanced features of **Next.js**
-* Performance optimization for large-scale applications
-* Backend development with **Supabase** and **Serverless Functions**
-
-## ⭐ Featured Projects
-
-### 🖼️ Portfolio Website
-
-A modern portfolio website built with **Next.js** and **Tailwind CSS** to showcase my projects and experience.
-
-### 💬 Real-Time Chat Application
-
-A real-time messaging application built with **HTML**, **CSS**, **JavaScript**, **WebSocket**, and **Firebase**.
-
-## 📊 GitHub Stats
+Building fast, modern and user-friendly web applications with a focus on performance and clean UI.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Volkanmolla42&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volkanmolla42&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Volkanmolla42&theme=github-dark&hide_border=true" />
-</p>
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/volkan-molla-b851a3308/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <a href="https://volkanmolladotcom.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Live-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/volkan-molla-b851a3308/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mollavolkan11@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## 🚀 About Me
+
+* 💻 Full Stack Developer
+* ⚛️ Building applications with **React**, **Next.js**, and **TypeScript**
+* 🎨 Passionate about creating clean, responsive, and intuitive user interfaces
+* 🌱 Currently exploring **Supabase**, **Serverless**, and performance optimization
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Volkanmolla42&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,supabase,firebase,git,github,vscode,figma&perline=7" />
 </p>
+
+---
+
+## 🌟 Featured Project
+
+### 🌐 Personal Portfolio
+
+My personal portfolio showcasing projects, skills, and experience. Designed with a strong focus on UI/UX, smooth animations, and performance.
+
+**🔗 Live Demo:** https://volkanmolladotcom.vercel.app
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Volkanmolla42&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volkanmolla42&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Volkanmolla42&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Volkanmolla42&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 Portfolio: https://volkanmolladotcom.vercel.app
+* 💼 LinkedIn: https://www.linkedin.com/in/volkan-molla-b851a3308/
+* 📧 Email: [mollavolkan11@gmail.com](mailto:mollavolkan11@gmail.com)
